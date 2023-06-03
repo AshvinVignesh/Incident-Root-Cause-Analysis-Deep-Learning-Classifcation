@@ -7,4 +7,23 @@ Dataset is available for each incident indicating if any load isues or errors wa
 <br>
 <img src="dataset.png">
 
+<h4>Implimentation</h4>
 
+1.Verbose = 1 <br>
+2.Batch = 64 <br>
+3.Epochs = 20 <br>
+4.Hidden_nodes = 128 <br>
+5.Validation_split = 0.2 <br>
+
+<br>
+<h4>Model Summary</h4>
+<img src="Model_Summary.png">
+<br>
+<br>
+
+<h4>Evaluation against Test Dataset</h4>
+<img src="Evaluvation.png">
+<br>
+<br>
+<h4>Predicting Root Causes </h4>
+<img src="Predicting_Root_Cause.png">
